@@ -130,6 +130,7 @@ break;
 
 break;
 }
+break;
    }
    case 2:{
 
@@ -139,7 +140,7 @@ break;
  cout<<"Total Fuels in Part Two is :"<<sumPart2;
 
    }
-
+break;
 }
     return 0;
 }
