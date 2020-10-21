@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603308533 source:c:\users\ahmet\desktop\rocket equation\rocket\main.cpp
+	<iostream>
+	<fstream>
+
