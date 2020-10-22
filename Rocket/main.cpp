@@ -13,7 +13,7 @@ int * Read_Stars(string file_path)
 {string star;
     ifstream MyReadFile(file_path);
     int count = 0;
-    int *S = new int[100]; // There are 55 stars by default
+    int *S = new int[100]; // There are 100 stars by default
     while (getline (MyReadFile, star)) {
     if(star!="")
 S[count++] = stoi(star); // convert String into integer number
